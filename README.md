@@ -10,7 +10,7 @@
 ## 🧠 À propos de moi
 
 - 🔬 **Expérience en IA générative** : développement de chatbot et callbot intelligents (Claude 3 LLM, RAG, Python, AWS)
-- 🧪 Deux expériences professionnelles de 6 mois en **analyse de logs** et **modélisation urbaine**
+- 🧪 Deux expériences professionnelles de 6 mois en **analyse de logs** et **recherche & machine learning pour le calculateur d'itinéraire**
 - 📊 Projets personnels et académiques en machine learning, visualisation interactive, challenges Kaggle, etc.
 - 💬 Langues : français / anglais (B2) / espagnol (B1)
 
@@ -28,7 +28,7 @@
 > Machine Learning + Visualisation web + Extraction et parsing de données
 
 ### 📍 Data Science & Recherche — *sept. 2022 - fév. 2023*
-> Estimation du taux d’occupation du stationnement  
+> Estimation du taux d’occupation du stationnement, ajout au calculateur d'itinéraire 
 > Analyse urbaine & data science appliquée à la mobilité
 
 ---
