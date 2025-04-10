@@ -57,9 +57,9 @@
 
 ## 📄 Documents
 
-- 📥 [Télécharger mon CV](./CV_Elise_Maistre.pdf)
-- 📚 [Rapport - Outil d'analyse de logs](./TN10_Rapport_Elise_Maistre.pdf)
-- 📘 [Rapport - Estimation du taux d'occupation sur voirie](./TN09_Rapport_Elise_Maistre.pdf)
+- 📥 [Télécharger mon CV](./Documents/CV_Elise_Maistre.pdf)
+- 📚 [Rapport - Outil d'analyse de logs](./Documents/TN10_Rapport_Elise_Maistre.pdf)
+- 📘 [Rapport - Estimation du taux d'occupation sur voirie](./Documents/TN09_Rapport_Elise_Maistre.pdf)
 
 ---
 
