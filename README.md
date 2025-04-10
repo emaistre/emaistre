@@ -12,7 +12,8 @@
 - 🔬 **Expérience en IA générative** : développement de chatbot et callbot intelligents (Claude 3 LLM, RAG, Python, AWS)
 - 🧪 Deux expériences professionnelles de 6 mois en **analyse de logs** et **recherche & machine learning pour le calculateur d'itinéraire**
 - 📊 Projets personnels et académiques en machine learning, visualisation interactive, challenges Kaggle, etc.
-- 💬 Langues : français / anglais (B2) / espagnol (B1)
+- 💬 Langues : français / anglais (B2) / espagnol (B1)  
+- 🎓 Formation à l’Université de Technologie de Compiègne (UTC) - Spécialité : Informatique – Intelligence Artificielle & Science des données, [liste des cours suivis](./Documents/UTC_Elise_Maistre_A2023_Annexe.pdf).
 
 ---
 
@@ -50,7 +51,7 @@
 |--------|-------------|-------|
 | 🔗 [Carte interactive](lien-vers-ton-repo) | Visualisation dynamique de données géographiques | Python, Plotly, Pandas |
 | 🔗 [Challenge Titanic (Kaggle)](lien-vers-ton-kaggle) | Analyse prédictive de survie | Python, Pandas, sklearn |
-| 🔗 [Projet académique 1](lien-vers-le-repo) | Modèle d’analyse de séries temporelles | Python |
+| 🔗 [Projet de gestion d'une bibliothèque](https://github.com/emaistre/projet-bibliotheque-nf18.git) | Conception, stockage et gestion pour une bibliotèque | Python, SQL, UML |
 | 🔗 [Projet académique 2](lien-vers-le-repo) | Classification d’images avec CNN | PyTorch |
 
 ---
