@@ -55,6 +55,13 @@
 
 ---
 
+## 📚 Présentations
+
+- 🧠 Introduction au KDD Process : [📄 Voir la présentation](./Documents/KDD_Process.pdf)
+- 🤖 Les Larges Languages Models (LLM) : [📄 Voir la présentation](./Documents/presentation_llm.pdf)
+
+---
+
 ## 📄 Documents
 
 - 📥 [Télécharger mon CV](./Documents/CV_Elise_Maistre.pdf)
