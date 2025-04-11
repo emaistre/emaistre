@@ -1,6 +1,6 @@
 # 👋 Bonjour, moi c’est Elise Maistre
 
-🎓 **Data Scientist**, passionnée par la **data**, le **machine learning** et l'**innovation technologique**.  
+🎓 Passionnée par la **data**, le **machine learning** et l'**innovation technologique**.  
 🏢 Ingénieure d'études chez SOLUTEC *(depuis fev. 2024)*.  
 💡 Volontaire, autonome et créative, j'aime concevoir des solutions Data ou IA sur mesure : de la collecte des données à la mise en production, en passant par le NLP, les LLM et le cloud.
 
