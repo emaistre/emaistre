@@ -49,7 +49,7 @@
 
 | Projet | Description | Techs |
 |--------|-------------|-------|
-| 🔗 [Carte interactive](lien-vers-ton-repo) | Visualisation dynamique de données sosa géographiques, visualisation géographiques des ascendants généalogiques | Python, Plotly, Pandas |
+| 🔗 [Carte interactive](https://github.com/emaistre/carte-genealogique.git) | Visualisation dynamique de données sosa géographiques, visualisation géographiques des ascendants généalogiques | Python, Plotly, Pandas |
 | 🔗 [Challenge Titanic (Kaggle)](https://www.kaggle.com/code/elisemaistre/titanic-elise-maistre) | Analyse prédictive de survie | Python, pandas, sklearn, seaborn |
 | 🔗 [Projet de gestion d'une bibliothèque](https://github.com/emaistre/projet-bibliotheque-nf18.git) | Conception, stockage et gestion pour une bibliotèque | Python, SQL, UML |
 | 🔗 [Projet académique 2](lien-vers-le-repo) | Classification d’images avec CNN | PyTorch |
