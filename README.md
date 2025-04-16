@@ -54,6 +54,7 @@
 | 🔗 [Parallelisation vs centralisation sur des algorithmes de ML](https://github.com/emaistre/projet-parallelisation-MPML) | Algorithmes de régression logistiques et k-means comparés entre versions centralisées et parallelisées | Spark, Python, Numpy |
 | 🔗 [Visualisation des flux Erasmus](https://github.com/emaistre/projet-data-visualisation) | Visualisation des données des flux erasmus (pays, villes, universités) | R, Shiny |
 | 🔗 [Projet d'analyse des salaires des Manager](./Documents/SY09_projet_salaire.pdf) | Analyse exploratoire et prédictive des salaires sur le dataset "Ask a manager salary survey" | Python, Pandas, Sklearn, Matplotlib, Latex |
+| 🔗 [Projet de résolution du jeu Helltaker](https://github.com/emaistre/projet-logique-helltaker) | Compréhension logique du jeu et résolution via IA | ASP, STRIPS, Python |
 | 🔗 [Projet de gestion d'une bibliothèque](https://github.com/emaistre/projet-bibliotheque-nf18.git) | Conception, stockage et gestion pour une bibliotèque | Python, SQL, UML |
 | 🔗 [Projet de développement du jeu Carcassonne](https://github.com/emaistre/projet-carcassonne-lo21) | Développement des mécaniques et de l'interface du jeu de stratégie Carcassonne | C++, Qt |
 
